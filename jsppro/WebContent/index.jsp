@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+  
+index.jsp 파일 
 
-index.jsp 파일
-
-</body>
+</body> 
 </html>
